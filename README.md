@@ -1,0 +1,1 @@
+# Empty React App created via Vite
